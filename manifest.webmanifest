@@ -1,6 +1,6 @@
 {
-  "name": "app-vetty",
-  "short_name": "app-vetty",
+  "name": "Vetty",
+  "short_name": "Vetty",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",

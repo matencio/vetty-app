@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1645647661009,
+  "timestamp": 1645710384656,
   "index": "https://matencio.github.io/vetty-app/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://matencio.github.io/vetty-app/favicon.ico",
         "https://matencio.github.io/vetty-app/index.html",
-        "https://matencio.github.io/vetty-app/main.e49f8691f99428473137.js",
+        "https://matencio.github.io/vetty-app/main.3f141fd355b5d9e8a11a.js",
         "https://matencio.github.io/vetty-app/manifest.webmanifest",
         "https://matencio.github.io/vetty-app/polyfills.b7adfeca3af809334d84.js",
         "https://matencio.github.io/vetty-app/runtime.7b63b9fd40098a2e8207.js",
@@ -38,6 +38,7 @@
         "https://matencio.github.io/vetty-app/assets/icons/icon-512x512.png",
         "https://matencio.github.io/vetty-app/assets/icons/icon-72x72.png",
         "https://matencio.github.io/vetty-app/assets/icons/icon-96x96.png",
+        "https://matencio.github.io/vetty-app/assets/images/home.jpeg",
         "https://matencio.github.io/vetty-app/assets/images/logo-vetty.png"
       ],
       "patterns": []
@@ -54,11 +55,12 @@
     "https://matencio.github.io/vetty-app/assets/icons/icon-512x512.png": "cd3620728a6bc0e2d96f0b2c84170b3b0910fdab",
     "https://matencio.github.io/vetty-app/assets/icons/icon-72x72.png": "b3f05cc0bfae1b0177ae145a8dc568f07e2293c1",
     "https://matencio.github.io/vetty-app/assets/icons/icon-96x96.png": "ca3a6b4d6b6d053ebe9570fa7b48a69b756a8b78",
+    "https://matencio.github.io/vetty-app/assets/images/home.jpeg": "871e639e24c36e2fab3e3f9a31f4ad9c01c76269",
     "https://matencio.github.io/vetty-app/assets/images/logo-vetty.png": "34b852340ef98a98e4632113640f1da6010b03d4",
     "https://matencio.github.io/vetty-app/favicon.ico": "41ef3488afbea4c8dc6742d5bb3174982166af74",
-    "https://matencio.github.io/vetty-app/index.html": "6d131d9d003f9a6522b29db693a0c5c7a32b879c",
-    "https://matencio.github.io/vetty-app/main.e49f8691f99428473137.js": "1e76c0d0fd86314df92b45ee5c1fc765b7ce030f",
-    "https://matencio.github.io/vetty-app/manifest.webmanifest": "17e1893f117836edde1679b04cbc3fba1fa4ac80",
+    "https://matencio.github.io/vetty-app/index.html": "6481b4084324e082e2106d8ec8f2445b6b292303",
+    "https://matencio.github.io/vetty-app/main.3f141fd355b5d9e8a11a.js": "7ad7b4e2c7637d56c921d5d3afdb9f11e69697c4",
+    "https://matencio.github.io/vetty-app/manifest.webmanifest": "64a548fadbbb33c07dbfeb91125e2b6dbdf8a693",
     "https://matencio.github.io/vetty-app/polyfills.b7adfeca3af809334d84.js": "75a0b598cbfba0f643b66f4e4856422f51c55ad7",
     "https://matencio.github.io/vetty-app/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "https://matencio.github.io/vetty-app/styles.8003df6feae61f46e7b7.css": "449942ff98750c4619ac174ceb0cdc6ccb3e2be4"
