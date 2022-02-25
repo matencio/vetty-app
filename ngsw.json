@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1645710384656,
+  "timestamp": 1645748572542,
   "index": "https://matencio.github.io/vetty-app/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://matencio.github.io/vetty-app/favicon.ico",
         "https://matencio.github.io/vetty-app/index.html",
-        "https://matencio.github.io/vetty-app/main.3f141fd355b5d9e8a11a.js",
+        "https://matencio.github.io/vetty-app/main.1924298353f9a6795fe0.js",
         "https://matencio.github.io/vetty-app/manifest.webmanifest",
         "https://matencio.github.io/vetty-app/polyfills.b7adfeca3af809334d84.js",
         "https://matencio.github.io/vetty-app/runtime.7b63b9fd40098a2e8207.js",
@@ -58,9 +58,9 @@
     "https://matencio.github.io/vetty-app/assets/images/home.jpeg": "871e639e24c36e2fab3e3f9a31f4ad9c01c76269",
     "https://matencio.github.io/vetty-app/assets/images/logo-vetty.png": "34b852340ef98a98e4632113640f1da6010b03d4",
     "https://matencio.github.io/vetty-app/favicon.ico": "41ef3488afbea4c8dc6742d5bb3174982166af74",
-    "https://matencio.github.io/vetty-app/index.html": "6481b4084324e082e2106d8ec8f2445b6b292303",
-    "https://matencio.github.io/vetty-app/main.3f141fd355b5d9e8a11a.js": "7ad7b4e2c7637d56c921d5d3afdb9f11e69697c4",
-    "https://matencio.github.io/vetty-app/manifest.webmanifest": "64a548fadbbb33c07dbfeb91125e2b6dbdf8a693",
+    "https://matencio.github.io/vetty-app/index.html": "1e0a9cc17ff17217b39960e0d61090dffea6a164",
+    "https://matencio.github.io/vetty-app/main.1924298353f9a6795fe0.js": "dd31067b78986ba3ed4ac8d02b0afe08ddeddd69",
+    "https://matencio.github.io/vetty-app/manifest.webmanifest": "e2a3442d7d8cb135a9faea2543a29184408f4658",
     "https://matencio.github.io/vetty-app/polyfills.b7adfeca3af809334d84.js": "75a0b598cbfba0f643b66f4e4856422f51c55ad7",
     "https://matencio.github.io/vetty-app/runtime.7b63b9fd40098a2e8207.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "https://matencio.github.io/vetty-app/styles.8003df6feae61f46e7b7.css": "449942ff98750c4619ac174ceb0cdc6ccb3e2be4"
